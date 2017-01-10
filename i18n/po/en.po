@@ -1866,3 +1866,27 @@ msgstr "Blackcoin is different &ndash; it cannot be safely held with a bank or w
 #: www/views/onboarding/disclaimer.html:21
 msgid "I understand that if this app is moved to another device or deleted, my bitcoin can only be recovered with the backup phrase."
 msgstr "I understand that if this app is moved to another device or deleted, my blackcoin can only be recovered with the backup phrase."
+
+#: www/views/addresses.html:18
+msgid "Each bitcoin wallet can generate billions of addresses from your 12-word backup. A new address is automatically generated and shown each time you receive a payment."
+msgstr "Each blackcoin wallet can generate billions of addresses from your 12-word backup. A new address is automatically generated and shown each time you receive a payment."
+
+#: src/js/controllers/tx-details.js:126
+msgid "View Transaction on Insight"
+msgstr "View Transaction on blacksight"
+
+#: src/js/controllers/tx-details.js:127
+msgid "Open Insight"
+msgstr "Open blacksight"
+
+#: www/views/addressbook.add.html:38
+msgid "Bitcoin Address"
+msgstr "Blackcoin Address"
+
+#: www/views/tab-send.html:26
+msgid "Search or enter bitcoin address"
+msgstr "Search or enter blackcoin address"
+
+: www/views/includes/confirm-tx.html:3
+msgid "Send bitcoin"
+msgstr "Send blackcoin"
